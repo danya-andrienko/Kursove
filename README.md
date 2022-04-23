@@ -10,4 +10,6 @@ Kursova
 
 -Квотченко Дмитро Олександрович
 
-
+Фото розробленої моделі емуляції розумного дому:
+![IMG_20220423_173816](https://user-images.githubusercontent.com/68506045/164910794-6a57ccce-0eff-4682-8826-38ed5a88d3d1.jpg)
+![IMG_20220423_173909](https://user-images.githubusercontent.com/68506045/164910801-55852166-4360-4756-b9bd-6fe1d860848d.jpg)
