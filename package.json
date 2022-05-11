@@ -2,7 +2,11 @@
     "name": "Kursova",
     "description": "A Node-RED Project",
     "version": "0.0.1",
-    "dependencies": {},
+    "dependencies": {
+        "node-red-contrib-telegrambot-home": "0.7.0",
+        "node-red-dashboard": "3.1.6",
+        "node-red-node-serialport": "1.0.1"
+    },
     "node-red": {
         "settings": {
             "flowFile": "flow.json",
