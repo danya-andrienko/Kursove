@@ -146,39 +146,23 @@ Kursova
 | Макетна плата MB-102 830 отворів | 2 | https://arduino.ua/prod361-maketnaya-plata-mb-102-830-otverstii ||
 | Контролер Arduino Uno Rev3 (ATmega16U2) | 1 | https://arduino.ua/prod676-arduino-uno-rev3 | З кабелем живлення |
 | Arduino Nano V3.0 AVR ATmega328P з розпаяними роз'ємами | 1 | https://arduino.ua/prod166-arduino-nano-v3-0-avr-atmega328p-s-raspayannimi-razemami |
- |
 | Кабель USB - Mini USB (USB 2.0 AM/5p) 3 метра Blue (5123) PR | 1 | https://prom.ua/p1623631452-kabel-usb-mini.html |
- |
-| Набір з'єднувальних проводів 120 шт (20 см.) для Arduino |
-1 |
-https://rozetka.com.ua/249475521/p249475521/ |
- |
+| Набір з'єднувальних проводів 120 шт (20 см.) для Arduino | 1 | https://rozetka.com.ua/249475521/p249475521/ ||
 | Модуль терморезистора (датчик температури) KY-013 для Arduino | 1 | https://electronica.in.ua/ua/p1530391926-modul-termorezistora-datchik.html?source=merchant\_center&srsltid=AWLEVJwB37-0235N7jptMuDjKdo0kEA2yVFjYvCU4RagR64ofHRDzc\_qJNU |
- |
 | Waveshare DHT11 Датчик Температури Вологості | 1 | https://evo.net.ua/waveshare-dht11-datchik-temperatury-vlazhnosti-9535/ |
- |
 | Модуль звука датчик звуковой пассивный зуммер пищалка для ардуино Arduino Buzzer KY-006 | 1 | https://bigl.ua/p658761378-modul-zvuka-datchik |
- |
 | KY-019 5V один 1-канальний модуль релейної плати щит для реле arduino | 1 | https://www.aliexpress.com/item/1005001643963345.html?\_randl\_currency=UAH&\_randl\_shipto=UA&src=google&aff\_fcid=63149151329c4183bfbf77b23b11fc6a-1653825412133-05922-UneMJZVf&aff\_fsk=UneMJZVf&aff\_platform=aaf&sk=UneMJZVf&aff\_trace\_key=63149151329c4183bfbf77b23b11fc6a-1653825412133-05922-UneMJZVf&terminal\_id=816c821c09a04ef387d3278f8c04bf6b&afSmartRedirect=y |
  |
 | Датчик світла (фоторезистор) KY-018 | 1 | https://smartgear.com.ua/p877267816-datchik-sveta-fotorezistor.html |
  |
 | Кнопка 6x6x7мм | 3 | https://arduino.ua/prod3928-knopka-6x6x7mm |
  |
-| Резистор 10 КОм (5 штук)
- | 1 | https://arduino.ua/prod1970-rezistor-10-kom-5-shtyk |
- |
-| Резистор 1 КОм (5 штук) | 1 | https://arduino.ua/prod1969-rezistor-1-kom-5-shtyk |
- |
-| Світлодіод 10мм білий ультраяскравий | 3 | https://arduino.ua/prod448-svetodiod-10mm-belii-yltrayarkii |
- |
-| Блок живлення Led-One 200W 5V
- | 1 | https://rozetka.com.ua/278751073/p278751073/ |
- |
-| Корпусний кулер Gembird FANCASE2
- | 1 | https://epicentrk.ua/ua/shop/korpusnyy-kuler-gembird-fancase2.html?srsltid=AWLEVJxcP-0avyo0PBb4xkIAcA1kdGqSbFrvTi3C5kcNXAY6ZJ-kzzTzYWs |
-| Лампа розжарювання мініатюрна МН 6,5-0,34 Е10/13
- | 1 | https://svitlomag.all.biz/lampa-nakalivaniya-miniatyurnaya-mn-6-5-0-34-e1013-g26801997?utm\_currency=UAH&utm\_source=google&utm\_medium=cpc&utm\_campaign=shopping\_ua\_personal&utm\_content=298299 |
+| Резистор 10 КОм (5 штук) | 1 | https://arduino.ua/prod1970-rezistor-10-kom-5-shtyk | |
+| Резистор 1 КОм (5 штук) | 1 | https://arduino.ua/prod1969-rezistor-1-kom-5-shtyk ||
+| Світлодіод 10мм білий ультраяскравий | 3 | https://arduino.ua/prod448-svetodiod-10mm-belii-yltrayarkii | |
+| Блок живлення Led-One 200W 5V | 1 | https://rozetka.com.ua/278751073/p278751073/ ||
+| Корпусний кулер Gembird FANCASE2 | 1 | https://epicentrk.ua/ua/shop/korpusnyy-kuler-gembird-fancase2.html?srsltid=AWLEVJxcP-0avyo0PBb4xkIAcA1kdGqSbFrvTi3C5kcNXAY6ZJ-kzzTzYWs |
+| Лампа розжарювання мініатюрна МН 6,5-0,34 Е10/13| 1 | https://svitlomag.all.biz/lampa-nakalivaniya-miniatyurnaya-mn-6-5-0-34-e1013-g26801997?utm\_currency=UAH&utm\_source=google&utm\_medium=cpc&utm\_campaign=shopping\_ua\_personal&utm\_content=298299 |
  
 
 **2.3Відомість апаратних та програмних засобів**
