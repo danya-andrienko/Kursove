@@ -143,8 +143,7 @@ Kursova
 
 | Назва компоненту | Кількість | Опис | Примітка |
 | --- | --- | --- | --- |
-| Макетна плата MB-102 830 отворів | 2 | https://arduino.ua/prod361-maketnaya-plata-mb-102-830-otverstii |
- |
+| Макетна плата MB-102 830 отворів | 2 | https://arduino.ua/prod361-maketnaya-plata-mb-102-830-otverstii ||
 | Контролер Arduino Uno Rev3 (ATmega16U2) | 1 | https://arduino.ua/prod676-arduino-uno-rev3 | З кабелем живлення |
 | Arduino Nano V3.0 AVR ATmega328P з розпаяними роз'ємами | 1 | https://arduino.ua/prod166-arduino-nano-v3-0-avr-atmega328p-s-raspayannimi-razemami |
  |
@@ -178,10 +177,9 @@ https://rozetka.com.ua/249475521/p249475521/ |
  |
 | Корпусний кулер Gembird FANCASE2
  | 1 | https://epicentrk.ua/ua/shop/korpusnyy-kuler-gembird-fancase2.html?srsltid=AWLEVJxcP-0avyo0PBb4xkIAcA1kdGqSbFrvTi3C5kcNXAY6ZJ-kzzTzYWs |
- |
 | Лампа розжарювання мініатюрна МН 6,5-0,34 Е10/13
  | 1 | https://svitlomag.all.biz/lampa-nakalivaniya-miniatyurnaya-mn-6-5-0-34-e1013-g26801997?utm\_currency=UAH&utm\_source=google&utm\_medium=cpc&utm\_campaign=shopping\_ua\_personal&utm\_content=298299 |
- |
+ 
 
 **2.3Відомість апаратних та програмних засобів**
 
