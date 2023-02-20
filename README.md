@@ -229,7 +229,7 @@ Arduino Nano V3.0 – невелика самодостатня плата, су
 
 Waveshare DHT11 датчик температури вологості (9535) — модуль вимірювання температури та вологості із вбудованим датчиком DHT11 який показаний на рисунку 2.3.4 використовується для визначення температури та вологості навколишнього середовища через стандартний однопровідний інтерфейс. Він застосовується в метеостанціях, контролю вологості, в різних контрольно-вимірювальних приладах.
 
-![Image alt](https://github.com/danya-andrienko/Kursove/blob/main/Image/DTH11.jpg)
+![Image alt](https://github.com/danya-andrienko/Kursove/blob/main/Image/DHT11.jpg)
 
 Рисунок 2.3.4 – Датчик температури вологості Waveshare DHT11
 
@@ -531,9 +531,9 @@ Node-red відображаються коректні значення з пе�
 - Моніторинг рівня освітленості на вулиці;
 - Моніторинг стану освітлення на вулиці.
 
-![Image alt](https://github.com/danya-andrienko/Kursove/blob/main/Image/prog_UON_1.jpg)
+![Image alt](https://github.com/danya-andrienko/Kursove/blob/main/Image/prog_UNO_1.jpg)
 
-![Image alt](https://github.com/danya-andrienko/Kursove/blob/main/Image/prog_UON_2.jpg)
+![Image alt](https://github.com/danya-andrienko/Kursove/blob/main/Image/prog_UNO_2.jpg)
 
 Рис.4.1.1 –Програма для мікроконтролеру ArduinoUNO
 
@@ -668,7 +668,7 @@ Node-red відображаються коректні значення з пе�
 
 Отримання інформації з датчиків реалізовано аналогічно з сигналізацією, налаштування порту для ArduinoUNO показано на рисунку 4.1.21.
 
-![Image alt](https://github.com/danya-andrienko/Kursove/blob/main/image_node-red/setting_UNO.jpg)
+![Image alt](https://github.com/danya-andrienko/Kursove/blob/main/image_node-red/seting_UNO.jpg)
 
 Рис.4.1.21 – Налаштування порту для ArduinoUNO
 
@@ -769,7 +769,7 @@ Node-red відображаються коректні значення з пе�
 
 Самий важливий програмний засіб який ми використовуємо це Arduino IDE. Тому що він слугує базою для розробки програми керування для мікроконтролерів які керують всією системою розумного будинку. Приклад реалізація з'єднання Arduino IDE та Node-RED показано на рисунку 4.2.1.
 
-![Image alt](https://github.com/danya-andrienko/Kursove/blob/main/image_node-red/arduino_node-red.jpg)
+![Image alt](https://github.com/danya-andrienko/Kursove/blob/main/image_node-red/arduino_node_red.jpg)
 
 Рисунок 4.2.1 – З'єднання Arduino IDE та Node-RED
 
@@ -897,13 +897,13 @@ Node-red відображаються коректні значення з пе�
 
 Рис. 4.3.10 – Налаштування посилання для роботи з google sheets
 
-![Image alt](https://github.com/danya-andrienko/Kursove/blob/main/image_node-red/setting_sheet.jpg)
+![Image alt](https://github.com/danya-andrienko/Kursove/blob/main/image_node-red/setting_sheets.jpg)
 
 Рис. 4.3.11 – Налаштування «httprequest» для роботи з google sheets
 
 Перевіряємо роботу відправлення даних на Google Sheets з інтервалом на відправлення 1 хвилина, перегляд даних відправлених через Node-red на Google Sheets зображено на рисунку 4.3.12.
 
-![Image alt](https://github.com/danya-andrienko/Kursove/blob/main/image_node-red/sheet_feedback.jpg)
+![Image alt](https://github.com/danya-andrienko/Kursove/blob/main/image_node-red/shet_feedback.jpg)
 
 Рис. 4.3.12 – Перевірка роботи відправлення даних на Google Sheets
 
