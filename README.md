@@ -151,12 +151,9 @@ Kursova
 | Модуль терморезистора (датчик температури) KY-013 для Arduino | 1 | https://electronica.in.ua/ua/p1530391926-modul-termorezistora-datchik.html?source=merchant\_center&srsltid=AWLEVJwB37-0235N7jptMuDjKdo0kEA2yVFjYvCU4RagR64ofHRDzc\_qJNU |
 | Waveshare DHT11 Датчик Температури Вологості | 1 | https://evo.net.ua/waveshare-dht11-datchik-temperatury-vlazhnosti-9535/ |
 | Модуль звука датчик звуковой пассивный зуммер пищалка для ардуино Arduino Buzzer KY-006 | 1 | https://bigl.ua/p658761378-modul-zvuka-datchik |
-| KY-019 5V один 1-канальний модуль релейної плати щит для реле arduino | 1 | https://www.aliexpress.com/item/1005001643963345.html?\_randl\_currency=UAH&\_randl\_shipto=UA&src=google&aff\_fcid=63149151329c4183bfbf77b23b11fc6a-1653825412133-05922-UneMJZVf&aff\_fsk=UneMJZVf&aff\_platform=aaf&sk=UneMJZVf&aff\_trace\_key=63149151329c4183bfbf77b23b11fc6a-1653825412133-05922-UneMJZVf&terminal\_id=816c821c09a04ef387d3278f8c04bf6b&afSmartRedirect=y |
- |
-| Датчик світла (фоторезистор) KY-018 | 1 | https://smartgear.com.ua/p877267816-datchik-sveta-fotorezistor.html |
- |
-| Кнопка 6x6x7мм | 3 | https://arduino.ua/prod3928-knopka-6x6x7mm |
- |
+| KY-019 5V один 1-канальний модуль релейної плати щит для реле arduino | 1 | https://www.aliexpress.com/item/1005001643963345.html?\_randl\_currency=UAH&\_randl\_shipto=UA&src=google&aff\_fcid=63149151329c4183bfbf77b23b11fc6a-1653825412133-05922-UneMJZVf&aff\_fsk=UneMJZVf&aff\_platform=aaf&sk=UneMJZVf&aff\_trace\_key=63149151329c4183bfbf77b23b11fc6a-1653825412133-05922-UneMJZVf&terminal\_id=816c821c09a04ef387d3278f8c04bf6b&afSmartRedirect=y ||
+| Датчик світла (фоторезистор) KY-018 | 1 | https://smartgear.com.ua/p877267816-datchik-sveta-fotorezistor.html | |
+| Кнопка 6x6x7мм | 3 | https://arduino.ua/prod3928-knopka-6x6x7mm ||
 | Резистор 10 КОм (5 штук) | 1 | https://arduino.ua/prod1970-rezistor-10-kom-5-shtyk | |
 | Резистор 1 КОм (5 штук) | 1 | https://arduino.ua/prod1969-rezistor-1-kom-5-shtyk ||
 | Світлодіод 10мм білий ультраяскравий | 3 | https://arduino.ua/prod448-svetodiod-10mm-belii-yltrayarkii | |
